@@ -1,0 +1,13 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "Alura geek e-commerce project for Oracle/Alura latam program",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amira-ami/Alura-Geek"
+  }
+}
